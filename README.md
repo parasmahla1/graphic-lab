@@ -24,6 +24,7 @@ Graphic Lab is a graphic design platform that allows you to unleash your creativ
 - Zustand 
 
 ## Deployed version
+
 ```
-[Graphic Lab](https://graphic-lab.vercel.app/)
+https://graphic-lab.vercel.app/
 ```
